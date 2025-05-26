@@ -2,6 +2,8 @@
 My name is Mahim, and I am a dedicated student with a strong passion for creativity and technology. Alongside my studies, I work as a  web developer, constantly striving to improve my skills and deliver high-quality results. I am highly motivated and hardworking, always ready to take on new challenges and learn from every experience. Whether it’s editing videos with precision or building modern, responsive websites, I put 100% effort into everything I do. My goal is to grow both personally and professionally, and I believe that consistency, passion, and a strong work ethic are the keys to success. 
 
 
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ma.h.im.426188) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mm.mahim9876@gmail.com) 
 
